@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ilhemmissaoui
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning reactjs 
+- 👀 I’m interested in web development
+- I'm trying mobile development these days
+- 🌱 I’m currently learning flutter
 -
 -
 
