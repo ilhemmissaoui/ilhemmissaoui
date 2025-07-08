@@ -51,27 +51,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhem-elmissaoui&show_icons=true&theme=radical" alt="Ilhem's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=ilhem-elmissaoui&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Ilhem's GitHub streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ilhem-elmissaoui&theme=radical&column=4" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ilhem-elmissaoui/ilhem-elmissaoui/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
