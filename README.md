@@ -12,7 +12,7 @@
 - 💻 I’m a passionate developer experienced in **JavaScript, TypeScript, and PHP**
 - 🔧 Currently building modern web apps using **React.js, Node.js, Nest.js, Laravel & Meteor.js**
 - 🛠️ I'm skilled in both frontend and backend technologies
-- 📬 How to reach me: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ilhem-elmissaoui-47a20b1a5/)) 
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/ilhem-elmissaoui-47a20b1a5/)
 
 ---
 
