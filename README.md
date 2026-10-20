@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilhem Elmissaoui</h1>
-<h3 align="center">Full Stack Developer | JavaScript, TypeScript & PHP Enthusiast</h3>
+<h3 align="center">Full Stack Developer | JavaScript, TypeScript & Java </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilhem-elmissaoui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 💻 I’m a passionate developer experienced in **JavaScript, TypeScript, and PHP**
+- 💻 I’m a passionate developer experienced in **JavaScript, TypeScript, and Java**
 - 🔧 Currently building modern web apps using **React.js, Node.js, Nest.js, Laravel & Meteor.js**
 - 🛠️ I'm skilled in both frontend and backend technologies
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/ilhem-elmissaoui-47a20b1a5/)
